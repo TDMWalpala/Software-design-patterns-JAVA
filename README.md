@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-## Why this repository?
-I am reading <b>Head First Design Patterns</b> and <b> Elements of Reusable Object-Oriented Software </b> books. This is my practice repository. <br/>
-Day by day I will add new design patterns which I will learn in the future.
-
 ### Design pattern
 In software engineering design pattern is a repeatable solution to a commonly occurring problem. 
 It's not a finished design that can be directly transformed into source code. 
@@ -40,7 +35,3 @@ Rather, It is a description or template for how to solve a problem that can be u
 6. [Strategy Pattern](https://github.com/TDMWalpala/Software-design-patterns-JAVA/tree/master/src/Strategy)
 7. [Visitor Pattern](https://github.com/TDMWalpala/Software-design-patterns-JAVA/tree/master/src/Visitor)
 
-
-=======
-# Software-design-patterns-JAVA
->>>>>>> 90bfe98911cdf1d544024b581dbc929380d95948
